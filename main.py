@@ -5,7 +5,7 @@ from tkinter import font as tkFont
 from tkinter import *  
 from tkinter import messagebox
 
-
+# Realizar cambios
 main = Tk()
 main.geometry("1366x768")
 main.title("Burger King")
